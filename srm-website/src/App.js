@@ -1,11 +1,12 @@
-function App() {
+import { Navbar, ImageSlide } from './components';
+
+const App = () => {
   return (
-    <div className='App'>
-      <header className='App-header'>
-        <p className='bg-red-600'>Hello world</p>
-      </header>
+    <div>
+      <Navbar />
+      <ImageSlide />
     </div>
   );
-}
+};
 
 export default App;

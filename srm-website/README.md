@@ -6,7 +6,7 @@ Reg no: RA1911030010026
 Section: O1
 ```
 
-Deployment Link - https://github.com/shvam0000/MERN/tree/main/srm-website
+Deployment Link - https://srm-website.vercel.app/
 
 ## Open in Local Machine
 

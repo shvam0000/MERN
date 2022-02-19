@@ -1,4 +1,4 @@
-import { Navbar, ImageSlide, Main } from './components';
+import { Navbar, ImageSlide, Main, Footer } from './components';
 
 const App = () => {
   return (
@@ -6,6 +6,7 @@ const App = () => {
       <Navbar />
       <ImageSlide />
       <Main />
+      <Footer />
     </div>
   );
 };

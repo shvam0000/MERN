@@ -3,7 +3,7 @@ import srmlogo from '../assets/srmlogo.png';
 const Navbar = () => {
   return (
     <>
-      <div className='flex items-center justify-between bg-[#17375E] py-2 px-16 text-xs text-white'>
+      <div className='flex items-center justify-between bg-[#17375E] py-2 px-52 text-xs text-white'>
         <div>
           <span className='px-2'>HOME</span>
           <span>|</span>

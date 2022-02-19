@@ -20,7 +20,7 @@ const Main = () => {
   return (
     <div className='flex items-start justify-between px-96'>
       <div>
-        <h1 className='mb-4'>ADMISSION</h1>
+        <h1 className='mb-4 font-bold'>ADMISSION</h1>
         {leftBarData.map((item) => (
           <ul>
             <li className='flex items-center'>
@@ -33,7 +33,7 @@ const Main = () => {
         ))}
       </div>
       <div>
-        <h1>ADMISSION INDIA PORTAL</h1>
+        <h1 className='font-bold'>ADMISSION INDIA PORTAL</h1>
         <AdmissionInfo />
       </div>
     </div>
